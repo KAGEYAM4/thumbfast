@@ -1,3 +1,4 @@
+# Added by me
 # thumbfast
 High-performance on-the-fly thumbnailer for mpv.
 
